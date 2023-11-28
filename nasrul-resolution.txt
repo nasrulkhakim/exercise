@@ -10,3 +10,4 @@ My resolution 2024
 
 *Javascript Frameworks :
 1. Vue
+2. React
