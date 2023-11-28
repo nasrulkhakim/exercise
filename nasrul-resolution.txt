@@ -4,10 +4,4 @@ My resolution 2024
 - Landing my first job as a developer
 - Learning UX Design
 - Learning Frameworks and Libraries
-*CSS Frameworks :
-1. Tailwinds
-2. Bootstraps
 
-*Javascript Frameworks :
-1. Vue
-2. React
