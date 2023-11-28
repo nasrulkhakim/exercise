@@ -5,3 +5,7 @@ My resolution 2024
 - Learning UX Design
 - Learning Frameworks and Libraries
 
+*Javascript Frameworks :
+1. Angular
+2. React
+
