@@ -1,11 +1,11 @@
 My resolution 2024
 - Mastering Front-end Development
+- Learning Back-end Development
 - Landing my first job as a developer
 - Learning UX Design
 - Learning Frameworks and Libraries
-*CSS Frameworks :
-1. Bulma
 
 *Javascript Frameworks :
 1. Angular
 2. React
+
