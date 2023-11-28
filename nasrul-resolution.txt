@@ -1,4 +1,4 @@
 My resolution 2024
 - Mastering Front-end Development
 - Landing my first job as a developer
-- Learning UI / UX Design
+- Learning UX Design
